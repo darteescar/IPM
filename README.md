@@ -8,8 +8,6 @@ Interface de um sistema de visualização de dados para a plataforma [InsideAirb
 * [luis7788](https://github.com/luis7788)
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 
-### Nota Final: ?? / 20 ⭐️
-
 ## Fase 1 -  Prototipagem
 Pode consultar o protótipo no respetivo [link](https://www.figma.com/proto/omZfsshqbyfBFcyr9Djr4o/TP_IPM?node-id=0-1&t=0bZyXUYJHC5JjvwZ-1) e o [design](https://www.figma.com/design/omZfsshqbyfBFcyr9Djr4o/TP_IPM?node-id=0-1&t=0bZyXUYJHC5JjvwZ-1) completo também.
 
@@ -49,8 +47,6 @@ Data visualization system interface for the [InsideAirbnb](https://insideairbnb.
 * [darteescar](https://github.com/darteescar)
 * [luis7788](https://github.com/luis7788)
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
-
-### Final Grade: ?? / 20 ⭐️
 
 ## Phase 1 - Prototyping
 You can check the prototype at the respective [link](https://www.figma.com/proto/omZfsshqbyfBFcyr9Djr4o/TP_IPM?node-id=0-1&t=0bZyXUYJHC5JjvwZ-1) and the complete [design](https://www.figma.com/design/omZfsshqbyfBFcyr9Djr4o/TP_IPM?node-id=0-1&t=0bZyXUYJHC5JjvwZ-1) as well.
