@@ -1,5 +1,5 @@
 # IPM (Interface Pessoa-Máquina) (Português)
-Interface de um sistema de visualização de dados para a plataforma [InsideAirbnb](https://insideairbnb.com/get-the-data/) implementado no âmbito da cadeira de Interface Pessoa-Máquina. O projeto foi dividido em duas fases: prototipagem e implementação. É possível consultar o respetivo [enunciado](Enunciado.pdf) e o [relatório](Relatorio-fase-1.pdf) da fase 1 (não foi necessário fazer um para a 2ª fase).
+Interface de um sistema de visualização de dados para a plataforma [InsideAirbnb](https://insideairbnb.com/get-the-data/) implementado no âmbito da cadeira de Interface Pessoa-Máquina. O projeto foi dividido em duas fases: prototipagem e implementação. É possível consultar o respetivo [enunciado](Enunciado.pdf) e o [relatório](Relatorio-fase-1.pdf) da fase 1 (não foi necessário fazer um para a 2ª fase)
 
 ![Painel Inicial](painel_inicial.png "Painel Inicial")
 
