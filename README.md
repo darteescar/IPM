@@ -3,6 +3,8 @@ Interface de um sistema de visualização de dados para a plataforma [InsideAirb
 
 ![Painel Inicial](painel_inicial.png "Painel Inicial")
 
+### Nota Final: 14.75 / 20 ⭐️
+
 ## Membros do grupo
 * [darteescar](https://github.com/darteescar)
 * [luis7788](https://github.com/luis7788)
@@ -42,6 +44,8 @@ npm run dev
 
 # IPM (Human-Computer Interface) (English)
 Data visualization system interface for the [InsideAirbnb](https://insideairbnb.com/get-the-data/) platform. Implemented within the scope of the Human-Computer Interface course. The project was divided into two phases: prototyping and implementation. You can check the respective [statement](Enunciado.pdf) and the [report](Relatorio-fase-1.pdf) of phase 1 (it was not necessary to make one for phase 2).
+
+### Nota Final: 14.75 / 20 ⭐️
 
 ## Group Members
 * [darteescar](https://github.com/darteescar)
